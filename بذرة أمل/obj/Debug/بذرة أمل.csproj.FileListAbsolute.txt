@@ -1,0 +1,44 @@
+D:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\bin\Debug\بذرة أمل.exe.config
+D:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\bin\Debug\بذرة أمل.exe
+D:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\bin\Debug\بذرة أمل.pdb
+D:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form1.resources
+D:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form2.resources
+D:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form3.resources
+D:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form4.resources
+D:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form5.resources
+D:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form6.resources
+D:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form7.resources
+D:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form8.resources
+D:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form9.resources
+D:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form10.resources
+D:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة أمل.csproj.GenerateResource.Cache
+D:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة أمل.exe
+D:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة أمل.pdb
+D:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة أمل.csprojResolveAssemblyReference.cache
+E:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\bin\Debug\بذرة أمل.exe.config
+E:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\bin\Debug\بذرة أمل.exe
+E:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\bin\Debug\بذرة أمل.pdb
+E:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form1.resources
+E:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form2.resources
+E:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form3.resources
+E:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form4.resources
+E:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form5.resources
+E:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form6.resources
+E:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form7.resources
+E:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form8.resources
+E:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form9.resources
+E:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form10.resources
+E:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة أمل.csproj.GenerateResource.Cache
+E:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة أمل.exe
+E:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة أمل.pdb
+E:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form11.resources
+E:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form12.resources
+E:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form13.resources
+E:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form14.resources
+E:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة أمل.csprojResolveAssemblyReference.cache
+E:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form15.resources
+D:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form11.resources
+D:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form12.resources
+D:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form13.resources
+D:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form14.resources
+D:\my projects\مشروع بذرة امل لمحمد جامعة ابلا\المشروع\بذرة أمل\بذرة أمل\obj\Debug\بذرة_أمل.Form15.resources
